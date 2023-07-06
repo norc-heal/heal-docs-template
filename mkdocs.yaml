@@ -8,8 +8,6 @@ nav:
   - Section 2:
     - section2/index.md
     - section2/page1.md
-  - Section 3:
-    - Page 1: page1.md
 
 theme:
   name: material
