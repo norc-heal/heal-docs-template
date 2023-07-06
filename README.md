@@ -1,6 +1,9 @@
 # HEAL template
 
-This template contains necessary assets etc for heal-styled documentation using mkdocs
+This template contains necessary assets etc for heal-styled documentation using mkdocs. 
+
+- It can be used to start a new documentation-dedicated repository or components from here can be directly copy-pasted into existing docs. 
+- It can also be used to test and learn mkdocs without any python required.
 
 ## Run/test locally (i.e., on your computer):
 
@@ -8,7 +11,7 @@ This template contains necessary assets etc for heal-styled documentation using 
 
 > `mkdocs serve`
 
-## Test solely via github
+## Test solely via github (no python required)
 
 Create a new repository on github with this template
 
